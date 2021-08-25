@@ -1,4 +1,7 @@
 /* To learn more about this file see: https://angular.io/config/tsconfig. */
+//Relacionado con las pruebas de integracion 
+// Para asegurarnos de que el proyecto funcione como esperamos
+
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
